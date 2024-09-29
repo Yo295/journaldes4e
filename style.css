@@ -57,7 +57,7 @@ body
 { 
   background-image: url(téléchargé.jpeg)
   background-repeat: repeat-y;
-  background-size: contain;
+  background-size: cover;
 }
 
 hr
