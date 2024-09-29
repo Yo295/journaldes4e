@@ -1,0 +1,110 @@
+#titre
+{
+  background-color: #82A67D;
+  text-align: center;
+  font-family: Arial;
+}
+
+#partieedt
+{
+  background-color: #997570;
+  text-align: center;
+  font-family: Arial;
+}
+
+#edtliste
+{
+  background-color: #997570;
+  font-family: Arial;
+}
+
+#partieimage
+{
+  background-color: #808080;
+  font-family: Arial;
+}
+ 
+#gauche
+{
+  background-color: #D3D3D3;
+  text-align: center;
+  font-family: Arial;
+  length: 100px
+  width: 50px
+}
+
+#droite
+{
+  background-color: #6699CC;
+  text-align: center;
+  font-family: Arial;
+  length: 100px
+  width: 50px
+}
+
+#boite1
+{
+  display: flex;
+  column-gap: 20px;
+}
+
+#décalage
+{
+  padding: 10px;
+}
+
+body
+{ 
+  background-image: url(téléchargé.jpeg)
+  background-repeat: repeat-y;
+  background-size: contain;
+}
+
+hr
+{
+  height: 2px;
+  background-color: #000000;
+  border: none;
+}
+
+ul 
+{
+  list-style: none;
+}
+
+li 
+{
+  display: inline-block;
+  margin-right: 20px; 
+}
+
+#gauche2
+{
+  background-color: #7A687F;
+  text-align: center;
+  font-family: Arial;
+  length: 100px
+  width: 50px
+}
+
+#droite2
+{
+  background-color: #D3D3D3;
+  text-align: center;
+  font-family: Arial;
+  length: 1000px
+  width: 50px
+}
+
+#boite2
+{
+  display: flex;
+  column-gap: 20px;
+}
+
+#pied
+{
+  background-color: #6699CC;
+  text-align: center;
+  font-family: Arial;
+}
